@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: ruby_sinatra_example
+  pool: 2
+  host: localhost
+  username: test
+  password: test
